@@ -1,0 +1,33 @@
+page{
+    line-height:40rpx;
+}
+.meta{
+    display:flex;
+    flex-direction:column;
+    padding:50rpx 40rpx;
+}
+.meta image{
+     margin:0 auto;
+}
+.meta text{
+    display:block;
+}
+.title{
+    font-size:42rpx;
+    color:#444;
+    margin:30rpx auto ;
+}
+.text{
+     font-size:28rpx;
+     color:#888;
+     margin-top:10rpx;
+}
+.derection{
+    font-size:40rpx;
+    margin-top:30rpx;
+}
+.content{
+    font-size:28rpx;
+    line-height:40rpx;
+    padding:10rpx;
+}
